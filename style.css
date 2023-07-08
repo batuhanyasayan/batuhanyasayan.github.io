@@ -141,44 +141,11 @@ li a:hover {
     }
 
     .social i {
-        font-size: 35px;
+        font-size: 40px;
         font-weight: normal;
     }
     .skills i{
-        font-size: 30px;
-     }
-}
-
-@media screen and (max-width: 991px) {
-    body {
-        height: 100%;
-        font-size: large;
-    }
-
-    .social i {
-        font-size: 10px;
-        font-weight: normal;
-    }
-    .skills i{
-        font-size: 10px;
-     }
-     .skills h3{
-        font-size: large;
+        font-size: 70px;
      }
 
-}
-
-@media screen and (max-width: 1199px) {
-    body {
-        font-size: large;
-    }
-
-    .social i {
-        font-size: 30px;
-        font-weight: normal;
-    }
-    .skills i{
-        font-size: 50px;
-     }
-  
 }
